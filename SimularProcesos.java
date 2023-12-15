@@ -18,7 +18,7 @@ import java.awt.event.ActionListener;
 import java.util.Iterator;
 import java.util.concurrent.Semaphore;
 
-
+//.
 public class SimularProcesos {
 
     public static void main (String args[]){
